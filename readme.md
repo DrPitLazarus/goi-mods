@@ -2,7 +2,7 @@
 
 Currently, I have one mod for the game Guns of Icarus Online / Alliance.
 
-- [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md)
+- [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md) - [Downloads](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipLauncherAndIntro)
 
 ## Install BepInEx mod loader
 
