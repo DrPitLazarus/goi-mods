@@ -1,7 +1,7 @@
 # SkipConfirmExitGame
 
-[Downloads](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipConfirmExitGame) -
-[Directions](/readme.md)
+| [Release Page](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipConfirmExitGame) | [Download](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipConfirmExitGame/drpitlazarus.SkipConfirmExitGame.dll) | [Directions](/readme.md) |
+|-|-|-|
 
 A quality of life mod for the game Guns of Icarus Online/Alliance.
 

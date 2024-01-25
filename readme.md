@@ -1,8 +1,11 @@
 # goi-mods
 
-Currently, I have one mod for the game Guns of Icarus Online / Alliance.
+Mods I made for the game Guns of Icarus Online/Alliance.
 
-- [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md) - [Downloads](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipLauncherAndIntro)
+| Mod Name                                               | Release Page                                                                          | Download                                                                                                                      |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [SkipConfirmExitGame](SkipConfirmExitGame/readme.md)   | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipConfirmExitGame)  | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipConfirmExitGame/drpitlazarus.SkipConfirmExitGame.dll)   |
+| [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md) | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipLauncherAndIntro) | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipLauncherAndIntro/drpitlazarus.SkipLauncherAndIntro.dll) |
 
 ## Install BepInEx mod loader
 
@@ -16,4 +19,4 @@ _If you already have BepInEx in your game folder, skip to the next section._
 
 ## Install mods
 
-Simply drop the .dll into `Guns of Icarus Online/BepInEx/Plugins` folder. :D
+Simply drop the .dll into the `Guns of Icarus Online/BepInEx/Plugins` folder. :D
