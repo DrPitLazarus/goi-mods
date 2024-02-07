@@ -4,6 +4,7 @@ Mods I made for the game Guns of Icarus Online/Alliance.
 
 | Mod Name                                               | Release Page                                                                          | Download                                                                                                                      |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [InspectLobbyTool](InspectLobbyTool/readme.md) | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/InspectLobbyTool) | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/InspectLobbyTool/drpitlazarus.InspectLobbyTool.dll) |
 | [SkipConfirmExitGame](SkipConfirmExitGame/readme.md)   | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipConfirmExitGame)  | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipConfirmExitGame/drpitlazarus.SkipConfirmExitGame.dll)   |
 | [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md) | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipLauncherAndIntro) | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipLauncherAndIntro/drpitlazarus.SkipLauncherAndIntro.dll) |
 
