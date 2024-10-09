@@ -6,3 +6,5 @@ relative_links:
 markdown: CommonMarkGhPages
 commonmark:
   options: ["UNSAFE"]
+minima:
+  skin: auto
