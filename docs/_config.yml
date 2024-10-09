@@ -1,8 +1,10 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
+remote_theme: jekyll/minima
 markdown: CommonMarkGhPages
 commonmark:
   options: ["UNSAFE"]
