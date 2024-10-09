@@ -10,3 +10,4 @@ commonmark:
   options: ["UNSAFE"]
 minima:
   skin: auto
+title: null
