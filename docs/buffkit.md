@@ -32,7 +32,7 @@ gl & hf
   Setting: `loadout viewer > crew loadout faction display`. `crew loadout viewer` must also be enabled.
   - New **CrewToolTooltips**: Like the gun tooltips, you can now hover/click crew tools to display tooltips for tools! That's a lot of tools!
   Setting: `loadout viewer > lobby crew tool tooltip display`. Options: `disabled`, `hover`, `click` (default).  
-https://github.com/user-attachments/assets/392e6d36-5b12-4bab-80a9-147b431ab0da
+![BuffKit_CrewFactionDisplay_and_ToolTooltips](https://github.com/user-attachments/assets/8621d510-e741-4428-b989-55cc1ffd9cfa)
 </details>
 
 ### SCS 501 - Poorly Applied Bandage (2024-06-01)
