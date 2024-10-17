@@ -1,5 +1,5 @@
 # BuffKit
-That "secret" goi mod. [BuffKit_SCS_501.0.0.zip](https://github.com/user-attachments/files/16571241/BuffKit_SCS_501.0.0.zip)
+That "secret" goi mod. [BuffKit_SCS_521.0.0.zip](https://github.com/user-attachments/files/17405629/BuffKit_SCS_521.0.0.zip)
 #### Install/Upgrade Instructions
 1. Open downloaded .zip file
 2. Go to your `Guns of Icarus Online` folder
@@ -10,6 +10,30 @@ That "secret" goi mod. [BuffKit_SCS_501.0.0.zip](https://github.com/user-attachm
 gl & hf
 
 ## Changelog
+
+### SCS 521 - Crew Tooltips, Faction Icons, and Force Start Button (2024-10-16)
+> 20 weeks later, better than never. 🗓️
+<details><summary>Expand</summary>
+
+- **SimpleFixes**:
+  - New **NoScrambleByDefault**: Scramble checkbox on Create Match screen is now unchecked by default.
+  - New **FixClearNotifications**: The clear all notifications button now cleans up stuck notifications. Noticed certain territory notifications were not dismissible during the Gauntlet event. This does not fix the individual clear buttons, however.
+  - **Scroll Sensitivity Adjustments**:
+    - Chat window: `10 -> 30`.
+    - Library pages except Lore: `20 -> 60`.
+ - **SkirmishAlerts**: Add Spectator Only Setting, enabled by default. `skirmish alerts > spectator only`
+ - **MatchRefTools**: 
+   - New **ForceStartModButton**: Adds a Force Start button to the match lobby footer. There is a confirm prompt. Enabled by default. 
+   Setting: `ref tools > force start mod button`
+![BuffKit ForceStartModButton](https://github.com/user-attachments/assets/6553291e-d8e3-4edf-8110-313e650c1c0c)
+- **ShipLoadoutViewer**:
+  - New **CrewFactionDisplay**: See everyone's faction without checking everyone's profile. Disabled by default.
+  This calls `GetUserProfile` once for every player like you would normally. Factions are cached for the game session and do not get updated.
+  Setting: `loadout viewer > crew loadout faction display`. `crew loadout viewer` must also be enabled.
+  - New **CrewToolTooltips**: Like the gun tooltips, you can now hover/click crew tools to display tooltips for tools! That's a lot of tools!
+  Setting: `loadout viewer > lobby crew tool tooltip display`. Options: `disabled`, `hover`, `click` (default).  
+https://github.com/user-attachments/assets/392e6d36-5b12-4bab-80a9-147b431ab0da
+</details>
 
 ### SCS 501 - Poorly Applied Bandage (2024-06-01)
 > Rebuild wasted. Hope this 30s failsafe kit holds us together for the next 3 minutes... 🩹
@@ -35,7 +59,8 @@ gl & hf
   - Health bar does not gradually change color based on health or have a background bar.
   - Health bar turns orange at <= 50% and return white above that. If destroyed, icon is red and health bar is hidden. Health bar is hidden if full.
   - A small fire or bigFire icon appears on top of the main icon in the top-right corner when the part is on... you know.  
-![RepairCluster](https://github.com/user-attachments/assets/d5159f13-70a7-44a8-a2cd-24cf4f432660)
+![RepairCluster](https://github.com/user-attachments/assets/d5159f13-70a7-44a8-a2cd-24cf4f432660)  
+[BuffKit_SCS_501.0.0.zip](https://github.com/user-attachments/files/16571241/BuffKit_SCS_501.0.0.zip)
 </details>
 
 ### SCS 491.1 - A Pinch of QoL (2024-03-25)
