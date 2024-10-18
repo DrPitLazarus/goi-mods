@@ -1,3 +1,6 @@
+---
+title: BuffKit
+---
 # BuffKit
 That "secret" goi mod. A collection of game modifications that feature:
 - Moderation/referee tools
