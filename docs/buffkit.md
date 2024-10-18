@@ -1,9 +1,18 @@
 # BuffKit
-That "secret" goi mod. [BuffKit_SCS_521.0.0.zip](https://github.com/user-attachments/files/17405629/BuffKit_SCS_521.0.0.zip)
+That "secret" goi mod. A collection of game modifications that feature:
+- Moderation/referee tools
+- Quality of Life enhancements and bug fixes
+- Misc. features
+
+Created by Trgk and Ightrril. Dr. Pit Lazarus is the current developer.
+
 #### Install/Upgrade Instructions
-1. Open downloaded .zip file
-2. Go to your `Guns of Icarus Online` folder
-3. Drag and drop .zip contents to your game folder, overwrite if prompted
+[BuffKit_SCS_521.0.0.zip](https://github.com/user-attachments/files/17405629/BuffKit_SCS_521.0.0.zip)
+1. Open downloaded .zip file.
+2. Go to your `Guns of Icarus Online` folder.
+3. Drag and drop .zip contents to your game folder, overwrite if prompted.
+4. *Additional steps for Linux: Use Proton and add to your launch options: `WINEDLLOVERRIDES="version=n,b" %command%`.
+  
 #### Uninstall Instructions
 1. Remove the same files from the .zip from your game folder
 
@@ -39,6 +48,7 @@ gl & hf
 > Rebuild wasted. Hope this 30s failsafe kit holds us together for the next 3 minutes... 🩹
 <details><summary>Expand</summary>
   
+[BuffKit_SCS_501.0.0.zip](https://github.com/user-attachments/files/16571241/BuffKit_SCS_501.0.0.zip)
 - **Speedometer**: 
   - Add Jester's Parade to allowed maps.
   - Fix possible NullReferenceException on mission start. (Broke repair UI. Thanks Zetnus!)
@@ -60,7 +70,6 @@ gl & hf
   - Health bar turns orange at <= 50% and return white above that. If destroyed, icon is red and health bar is hidden. Health bar is hidden if full.
   - A small fire or bigFire icon appears on top of the main icon in the top-right corner when the part is on... you know.  
 ![RepairCluster](https://github.com/user-attachments/assets/d5159f13-70a7-44a8-a2cd-24cf4f432660)  
-[BuffKit_SCS_501.0.0.zip](https://github.com/user-attachments/files/16571241/BuffKit_SCS_501.0.0.zip)
 </details>
 
 ### SCS 491.1 - A Pinch of QoL (2024-03-25)
