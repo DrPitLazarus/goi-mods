@@ -10,7 +10,7 @@ That "secret" goi mod. A collection of game modifications that feature:
 Created by Trgk and Ightrril. Dr. Pit Lazarus is the current developer.
 
 #### Install/Upgrade Instructions
-[BuffKit_SCS_521.0.0.zip](https://github.com/user-attachments/files/17405629/BuffKit_SCS_521.0.0.zip)
+[BuffKit_SCS_521.1.0.zip](https://github.com/user-attachments/files/17452455/BuffKit_SCS_521.1.0.zip)
 1. Open downloaded .zip file.
 2. Go to your `Guns of Icarus Online` folder.
 3. Drag and drop .zip contents to your game folder, overwrite if prompted.
@@ -23,10 +23,14 @@ gl & hf
 
 ## Changelog
 
+### SCS 521.1 - Minor Fix (2024-10-20)
+> ShipLoadoutViewer: Fix faction icons displaying even though the setting is disabled on startup. Setting is now checked on startup.
+
 ### SCS 521 - Crew Tooltips, Faction Icons, and Force Start Button (2024-10-16)
 > 20 weeks later, better than never. 🗓️
 <details><summary>Expand</summary>
 
+[BuffKit_SCS_521.0.0.zip](https://github.com/user-attachments/files/17405629/BuffKit_SCS_521.0.0.zip)
 - **SimpleFixes**:
   - New **NoScrambleByDefault**: Scramble checkbox on Create Match screen is now unchecked by default.
   - New **FixClearNotifications**: The clear all notifications button now cleans up stuck notifications. Noticed certain territory notifications were not dismissible during the Gauntlet event. This does not fix the individual clear buttons, however.
