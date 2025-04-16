@@ -8,5 +8,25 @@
         "version": "521.0.0",
         "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS521/BuffKit_SCS_521.0.0.zip",
         "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS521"
+    },
+    {
+        "version": "501.0.0",
+        "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS501/BuffKit_SCS_501.0.0.zip",
+        "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS501"
+    },
+    {
+        "version": "491.1.0",
+        "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS491.1/BuffKit_SCS_491.1.0.zip",
+        "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS491.1"
+    },
+    {
+        "version": "489.0.0",
+        "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS489/BuffKit_SCS_489.0.0.zip",
+        "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS489"
+    },
+    {
+        "version": "486.0.0",
+        "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS486/BuffKit_SCS_486.0.0.zip",
+        "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS486"
     }
 ]
