@@ -1,6 +1,9 @@
 ---
 title: BuffKit
 ---
+> [!IMPORTANT]
+> This page is no longer updated. Visit the BuffKit GitHub page [here](https://github.com/DrPitLazarus/buffkit#readme).
+
 # BuffKit
 That "secret" goi mod. A collection of game modifications that feature:
 - Moderation/referee tools
