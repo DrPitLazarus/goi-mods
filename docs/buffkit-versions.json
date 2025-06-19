@@ -1,5 +1,10 @@
 [
     {
+        "version": "556.0.0",
+        "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS556/BuffKit_SCS_556.0.0.zip",
+        "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS556"
+    },
+    {
         "version": "550.0.0",
         "downloadUrl": "https://github.com/DrPitLazarus/buffkit/releases/download/SCS550/BuffKit_SCS_550.0.0.zip",
         "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/SCS550"
