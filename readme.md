@@ -2,11 +2,11 @@
 
 Mods I made for the game Guns of Icarus Online/Alliance.
 
-| Mod Name                                               | Release Page                                                                          | Download                                                                                                                      |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [InspectLobbyTool](InspectLobbyTool/readme.md) | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/InspectLobbyTool) | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/InspectLobbyTool/drpitlazarus.InspectLobbyTool.dll) |
-| [SkipConfirmExitGame](SkipConfirmExitGame/readme.md)   | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipConfirmExitGame)  | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipConfirmExitGame/drpitlazarus.SkipConfirmExitGame.dll)   |
-| [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md) | [Release](https://github.com/DrPitLazarus/goi-mods/releases/tag/SkipLauncherAndIntro) | [Link](https://github.com/DrPitLazarus/goi-mods/releases/download/SkipLauncherAndIntro/drpitlazarus.SkipLauncherAndIntro.dll) |
+- [BuffKit](https://github.com/DrPitLazarus/buffkit#readme) - Main GoI mod.
+- [DataKit](DataKit/README.md) - Data gathering.
+- [InspectLobbyTool](InspectLobbyTool/readme.md) (Use BuffKit instead)
+- [SkipConfirmExitGame](SkipConfirmExitGame/readme.md)
+- [SkipLauncherAndIntro](SkipLauncherAndIntro/readme.md) (Included in BuffKit)
 
 ## Install BepInEx mod loader
 

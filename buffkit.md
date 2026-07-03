@@ -1,3 +1,3 @@
 # BuffKit
 
-Information moved to https://drpitlazarus.github.io/goi-mods/buffkit.
+Information moved to https://github.com/DrPitLazarus/buffkit#readme.
