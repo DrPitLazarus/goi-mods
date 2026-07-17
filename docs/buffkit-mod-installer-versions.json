@@ -1,5 +1,9 @@
 [
     {
+        "version": "595.0.0",
+        "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/Installer-SCS595"
+    },
+    {
         "version": "548.0.0",
         "releaseUrl": "https://github.com/DrPitLazarus/buffkit/releases/tag/Installer-SCS548"
     },
